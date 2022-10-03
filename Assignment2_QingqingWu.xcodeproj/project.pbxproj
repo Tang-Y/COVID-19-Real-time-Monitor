@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C1C53E392746E80B00FFF2F1 /* Province.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1C53E382746E80B00FFF2F1 /* Province.swift */; };
+		C1C53E69274BEBED00FFF2F1 /* chart_html in Resources */ = {isa = PBXBuildFile; fileRef = C1C53E68274BEBED00FFF2F1 /* chart_html */; };
 		C1CA6DCF27397D9F00A46D36 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1CA6DCE27397D9F00A46D36 /* AppDelegate.swift */; };
 		C1CA6DD127397D9F00A46D36 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1CA6DD027397D9F00A46D36 /* SceneDelegate.swift */; };
 		C1CA6DD327397D9F00A46D36 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1CA6DD227397D9F00A46D36 /* ViewController.swift */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C1C53E382746E80B00FFF2F1 /* Province.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Province.swift; sourceTree = "<group>"; };
+		C1C53E68274BEBED00FFF2F1 /* chart_html */ = {isa = PBXFileReference; lastKnownFileType = folder; path = chart_html; sourceTree = "<group>"; };
 		C1CA6DCB27397D9F00A46D36 /* Assignment2_QingqingWu.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Assignment2_QingqingWu.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C1CA6DCE27397D9F00A46D36 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C1CA6DD027397D9F00A46D36 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -56,9 +60,11 @@
 		C1CA6DCD27397D9F00A46D36 /* Assignment2_QingqingWu */ = {
 			isa = PBXGroup;
 			children = (
+				C1C53E68274BEBED00FFF2F1 /* chart_html */,
 				C1CA6DCE27397D9F00A46D36 /* AppDelegate.swift */,
 				C1CA6DD027397D9F00A46D36 /* SceneDelegate.swift */,
 				C1CA6DD227397D9F00A46D36 /* ViewController.swift */,
+				C1C53E382746E80B00FFF2F1 /* Province.swift */,
 				C1CA6DD427397D9F00A46D36 /* Main.storyboard */,
 				C1CA6DD727397DA000A46D36 /* Assets.xcassets */,
 				C1CA6DD927397DA000A46D36 /* LaunchScreen.storyboard */,
@@ -124,6 +130,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C1C53E69274BEBED00FFF2F1 /* chart_html in Resources */,
 				C1CA6DDB27397DA000A46D36 /* LaunchScreen.storyboard in Resources */,
 				C1CA6DD827397DA000A46D36 /* Assets.xcassets in Resources */,
 				C1CA6DD627397D9F00A46D36 /* Main.storyboard in Resources */,
@@ -140,6 +147,7 @@
 				C1CA6DD327397D9F00A46D36 /* ViewController.swift in Sources */,
 				C1CA6DCF27397D9F00A46D36 /* AppDelegate.swift in Sources */,
 				C1CA6DD127397D9F00A46D36 /* SceneDelegate.swift in Sources */,
+				C1C53E392746E80B00FFF2F1 /* Province.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -3,6 +3,7 @@
 //  Assignment2_QingqingWu
 //
 //  Created by Qingqing Wu on 2021-11-08.
+//  Email: wuqin@sheridancollege.ca
 //
 
 import UIKit

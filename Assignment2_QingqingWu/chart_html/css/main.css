@@ -1,0 +1,25 @@
+/*
+main.css
+========
+CSS for test_chart
+
+ AUTHOR: Song Ho Ahn (song.ahn@gmail.com)
+CREATED: 2021-11-03
+UPDATED: 2021-11-03
+*/
+
+body {
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    overflow:hidden;
+    font-family:arial,helvetica,sans-serif;
+}
+.fullblock {
+    position:absolute;
+    left:0;
+    right:0;
+    top:0;
+    bottom:0;
+    margin:5px;
+}
